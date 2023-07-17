@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Name=unnamed application
+Comment=comment here
+Exec=(execution command here)
+Type=Application
+Categories=Application

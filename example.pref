@@ -1,0 +1,5 @@
+# example
+
+Package: example
+Pin: origin * / repository address / etc
+Pin-Priority: -1 / 1001
